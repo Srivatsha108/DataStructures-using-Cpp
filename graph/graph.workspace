@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="graph" Database="" Version="10000">
+  <Project Name="creation" Path="creation.project" Active="Yes"/>
+  <Project Name="graph2" Path="graph2.project" Active="No"/>
+  <Project Name="dfs" Path="dfs.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="creation" ConfigName="Debug"/>
+      <Project Name="graph2" ConfigName="Debug"/>
+      <Project Name="dfs" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="creation" ConfigName="Release"/>
+      <Project Name="graph2" ConfigName="Release"/>
+      <Project Name="dfs" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="stack" Database="" Version="10000">
+  <Project Name="operation" Path="operation/operation.project" Active="No"/>
+  <Project Name="operationstl" Path="operationstl/operationstl.project" Active="No"/>
+  <Project Name="linkedstack" Path="linkedstack/linkedstack.project" Active="No"/>
+  <Project Name="queueusingstack" Path="queueusingstack/queueusingstack.project" Active="No"/>
+  <Project Name="twostacksarray" Path="twostacksarray/twostacksarray.project" Active="No"/>
+  <Project Name="infixtopostfix" Path="infixtopostfix/infixtopostfix.project" Active="No"/>
+  <Project Name="pretoinfix" Path="pretoinfix/pretoinfix.project" Active="Yes"/>
+  <Project Name="pretopost" Path="pretopost/pretopost.project" Active="No"/>
+  <Project Name="temp" Path="temp/temp.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="operation" ConfigName="Debug"/>
+      <Project Name="operationstl" ConfigName="Debug"/>
+      <Project Name="linkedstack" ConfigName="Debug"/>
+      <Project Name="queueusingstack" ConfigName="Debug"/>
+      <Project Name="twostacksarray" ConfigName="Debug"/>
+      <Project Name="infixtopostfix" ConfigName="Debug"/>
+      <Project Name="pretoinfix" ConfigName="Debug"/>
+      <Project Name="pretopost" ConfigName="Debug"/>
+      <Project Name="temp" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="operation" ConfigName="Release"/>
+      <Project Name="operationstl" ConfigName="Release"/>
+      <Project Name="linkedstack" ConfigName="Release"/>
+      <Project Name="queueusingstack" ConfigName="Release"/>
+      <Project Name="twostacksarray" ConfigName="Release"/>
+      <Project Name="infixtopostfix" ConfigName="Release"/>
+      <Project Name="pretoinfix" ConfigName="Release"/>
+      <Project Name="pretopost" ConfigName="Release"/>
+      <Project Name="temp" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

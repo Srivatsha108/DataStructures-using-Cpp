@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="hashing" Database="" Version="10000">
+  <Project Name="separatechaining" Path="separatechaining/separatechaining.project" Active="No"/>
+  <Project Name="unique_elements_in_given_range" Path="unique_elements_in_given_range/unique_elements_in_given_range.project" Active="No"/>
+  <Project Name="matrix_operation_using_class" Path="practice/practice.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="separatechaining" ConfigName="Debug"/>
+      <Project Name="unique_elements_in_given_range" ConfigName="Debug"/>
+      <Project Name="matrix_operation_using_class" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="separatechaining" ConfigName="Release"/>
+      <Project Name="unique_elements_in_given_range" ConfigName="Release"/>
+      <Project Name="matrix_operation_using_class" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

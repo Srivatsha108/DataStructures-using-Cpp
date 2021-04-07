@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="trees" Database="" Version="10000">
+  <Project Name="creation" Path="creation/creation.project" Active="No"/>
+  <Project Name="inorder" Path="inorder/inorder.project" Active="No"/>
+  <Project Name="deletion" Path="deletion/deletion.project" Active="No"/>
+  <Project Name="levelorder" Path="levelorder/levelorder.project" Active="No"/>
+  <Project Name="preorder" Path="preorder/preorder.project" Active="No"/>
+  <Project Name="postorder" Path="postorder/postorder.project" Active="No"/>
+  <Project Name="binarytreearray" Path="binarytreearray/binarytreearray.project" Active="No"/>
+  <Project Name="bst" Path="bst/bst.project" Active="No"/>
+  <Project Name="treeoddevendifference" Path="treeoddevendifference/treeoddevendifference.project" Active="No"/>
+  <Project Name="halfnodes" Path="halfnodes/halfnodes.project" Active="No"/>
+  <Project Name="foldabletrees" Path="foldabletrees/foldabletrees.project" Active="No"/>
+  <Project Name="maxsumofnodeswithnoadjacent" Path="maxsumofnodeswithnoadjacent/maxsumofnodeswithnoadjacent.project" Active="No"/>
+  <Project Name="ternarytobinary" Path="ternarytobinary/ternarytobinary.project" Active="No"/>
+  <Project Name="bstoperation" Path="bstoperation/bstoperation.project" Active="No"/>
+  <Project Name="temp" Path="temp/temp.project" Active="No"/>
+  <Project Name="nodetoleafsum" Path="nodetoleafsum/nodetoleafsum.project" Active="No"/>
+  <Project Name="roottoleafcount" Path="roottoleafcount/roottoleafcount.project" Active="No"/>
+  <Project Name="treetodll" Path="treetodll/treetodll.project" Active="No"/>
+  <Project Name="unbalancedtobalancedbst" Path="unbalancedtobalancedbst/unbalancedtobalancedbst.project" Active="No"/>
+  <Project Name="tree_to_bst" Path="tree_to_bst/tree_to_bst.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="creation" ConfigName="Debug"/>
+      <Project Name="inorder" ConfigName="Debug"/>
+      <Project Name="deletion" ConfigName="Debug"/>
+      <Project Name="levelorder" ConfigName="Debug"/>
+      <Project Name="preorder" ConfigName="Debug"/>
+      <Project Name="postorder" ConfigName="Debug"/>
+      <Project Name="binarytreearray" ConfigName="Debug"/>
+      <Project Name="bst" ConfigName="Debug"/>
+      <Project Name="treeoddevendifference" ConfigName="Debug"/>
+      <Project Name="halfnodes" ConfigName="Debug"/>
+      <Project Name="foldabletrees" ConfigName="Debug"/>
+      <Project Name="maxsumofnodeswithnoadjacent" ConfigName="Debug"/>
+      <Project Name="ternarytobinary" ConfigName="Debug"/>
+      <Project Name="bstoperation" ConfigName="Debug"/>
+      <Project Name="temp" ConfigName="Debug"/>
+      <Project Name="nodetoleafsum" ConfigName="Debug"/>
+      <Project Name="roottoleafcount" ConfigName="Debug"/>
+      <Project Name="treetodll" ConfigName="Debug"/>
+      <Project Name="unbalancedtobalancedbst" ConfigName="Debug"/>
+      <Project Name="tree_to_bst" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="creation" ConfigName="Release"/>
+      <Project Name="inorder" ConfigName="Release"/>
+      <Project Name="deletion" ConfigName="Release"/>
+      <Project Name="levelorder" ConfigName="Release"/>
+      <Project Name="preorder" ConfigName="Release"/>
+      <Project Name="postorder" ConfigName="Release"/>
+      <Project Name="binarytreearray" ConfigName="Release"/>
+      <Project Name="bst" ConfigName="Release"/>
+      <Project Name="treeoddevendifference" ConfigName="Release"/>
+      <Project Name="halfnodes" ConfigName="Release"/>
+      <Project Name="foldabletrees" ConfigName="Release"/>
+      <Project Name="maxsumofnodeswithnoadjacent" ConfigName="Release"/>
+      <Project Name="ternarytobinary" ConfigName="Release"/>
+      <Project Name="bstoperation" ConfigName="Release"/>
+      <Project Name="temp" ConfigName="Release"/>
+      <Project Name="nodetoleafsum" ConfigName="Release"/>
+      <Project Name="roottoleafcount" ConfigName="Release"/>
+      <Project Name="treetodll" ConfigName="Release"/>
+      <Project Name="unbalancedtobalancedbst" ConfigName="Release"/>
+      <Project Name="tree_to_bst" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

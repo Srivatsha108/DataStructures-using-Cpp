@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="heap" Database="" Version="10000">
+  <Project Name="minheap" Path="minheap/minheap.project" Active="No"/>
+  <Project Name="klargestelementsofarray" Path="klargestelementsofarray/klargestelementsofarray.project" Active="No"/>
+  <Project Name="secondsmallest" Path="secondsmallest/secondsmallest.project" Active="Yes"/>
+  <Project Name="addingarrayelements" Path="addingarrayelements/addingarrayelements.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="minheap" ConfigName="Debug"/>
+      <Project Name="klargestelementsofarray" ConfigName="Debug"/>
+      <Project Name="secondsmallest" ConfigName="Debug"/>
+      <Project Name="addingarrayelements" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="minheap" ConfigName="Release"/>
+      <Project Name="klargestelementsofarray" ConfigName="Release"/>
+      <Project Name="secondsmallest" ConfigName="Release"/>
+      <Project Name="addingarrayelements" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

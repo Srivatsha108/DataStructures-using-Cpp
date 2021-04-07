@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="stl" Database="" Version="10000">
+  <Project Name="templates" Path="templates/templates.project" Active="No"/>
+  <Project Name="orgtemp" Path="orgtemp/orgtemp.project" Active="No"/>
+  <Project Name="sort" Path="sort/sort.project" Active="No"/>
+  <Project Name="search" Path="search/search.project" Active="No"/>
+  <Project Name="pair" Path="pair/pair.project" Active="No"/>
+  <Project Name="vectors" Path="vectors/vectors.project" Active="No"/>
+  <Project Name="vectorsort" Path="vectorsort/vectorsort.project" Active="No"/>
+  <Project Name="forwardlist" Path="forwardlist/forwardlist.project" Active="No"/>
+  <Project Name="temp" Path="temp/temp.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="stl" ConfigName="Debug"/>
+      <Project Name="templates" ConfigName="Debug"/>
+      <Project Name="orgtemp" ConfigName="Debug"/>
+      <Project Name="sort" ConfigName="Debug"/>
+      <Project Name="search" ConfigName="Debug"/>
+      <Project Name="pair" ConfigName="Debug"/>
+      <Project Name="vectors" ConfigName="Debug"/>
+      <Project Name="vectorsort" ConfigName="Debug"/>
+      <Project Name="forwardlist" ConfigName="Debug"/>
+      <Project Name="temp" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="stl" ConfigName="Release"/>
+      <Project Name="templates" ConfigName="Release"/>
+      <Project Name="orgtemp" ConfigName="Release"/>
+      <Project Name="sort" ConfigName="Release"/>
+      <Project Name="search" ConfigName="Release"/>
+      <Project Name="pair" ConfigName="Release"/>
+      <Project Name="vectors" ConfigName="Release"/>
+      <Project Name="vectorsort" ConfigName="Release"/>
+      <Project Name="forwardlist" ConfigName="Release"/>
+      <Project Name="temp" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

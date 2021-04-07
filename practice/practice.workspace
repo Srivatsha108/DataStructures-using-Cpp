@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="practice" Database="" Version="10000">
+  <Project Name="binaryqueries" Path="binaryqueries/binaryqueries.project" Active="No"/>
+  <Project Name="insertendll" Path="insertendll/insertendll.project" Active="No"/>
+  <Project Name="balancedbracket" Path="balancedbracket/balancedbracket.project" Active="No"/>
+  <Project Name="twostacksgame" Path="twostacksgame/twostacksgame.project" Active="No"/>
+  <Project Name="chargeneutralise" Path="chargeneutralise/chargeneutralise.project" Active="No"/>
+  <Project Name="monkinversions" Path="monkinversions/monkinversions.project" Active="No"/>
+  <Project Name="arrayform" Path="arrayform/arrayform.project" Active="No"/>
+  <Project Name="stackop" Path="stackop/stackop.project" Active="Yes"/>
+  <Project Name="jumpyhumpy" Path="jumpyhumpy/jumpyhumpy.project" Active="No"/>
+  <Project Name="cll" Path="cll.project" Active="No"/>
+  <Project Name="dll" Path="dll.project" Active="No"/>
+  <Project Name="stack" Path="stack.project" Active="No"/>
+  <Project Name="queue_using_stack" Path="queue_using_stack.project" Active="No"/>
+  <Project Name="stack_using_queue" Path="stack_using_queue.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="binaryqueries" ConfigName="Debug"/>
+      <Project Name="insertendll" ConfigName="Debug"/>
+      <Project Name="balancedbracket" ConfigName="Debug"/>
+      <Project Name="twostacksgame" ConfigName="Debug"/>
+      <Project Name="chargeneutralise" ConfigName="Debug"/>
+      <Project Name="monkinversions" ConfigName="Debug"/>
+      <Project Name="arrayform" ConfigName="Debug"/>
+      <Project Name="stackop" ConfigName="Debug"/>
+      <Project Name="jumpyhumpy" ConfigName="Debug"/>
+      <Project Name="24.02" ConfigName="Debug"/>
+      <Project Name="cll" ConfigName="Debug"/>
+      <Project Name="dll" ConfigName="Debug"/>
+      <Project Name="stack" ConfigName="Debug"/>
+      <Project Name="queue_using_stack" ConfigName="Debug"/>
+      <Project Name="stack_using_queue" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="binaryqueries" ConfigName="Release"/>
+      <Project Name="insertendll" ConfigName="Release"/>
+      <Project Name="balancedbracket" ConfigName="Release"/>
+      <Project Name="twostacksgame" ConfigName="Release"/>
+      <Project Name="chargeneutralise" ConfigName="Release"/>
+      <Project Name="monkinversions" ConfigName="Release"/>
+      <Project Name="arrayform" ConfigName="Release"/>
+      <Project Name="stackop" ConfigName="Release"/>
+      <Project Name="jumpyhumpy" ConfigName="Release"/>
+      <Project Name="24.02" ConfigName="Release"/>
+      <Project Name="cll" ConfigName="Release"/>
+      <Project Name="dll" ConfigName="Release"/>
+      <Project Name="stack" ConfigName="Release"/>
+      <Project Name="queue_using_stack" ConfigName="Release"/>
+      <Project Name="stack_using_queue" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

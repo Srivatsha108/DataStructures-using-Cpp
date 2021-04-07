@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="csll" Database="" Version="10000">
+  <Project Name="insbegtraverse" Path="insbegtraverse/insbegtraverse.project" Active="No"/>
+  <Project Name="dividehalf" Path="dividehalf/dividehalf.project" Active="No"/>
+  <Project Name="sortedinsert" Path="sortedinsert/sortedinsert.project" Active="Yes"/>
+  <Project Name="temp" Path="temp/temp.project" Active="No"/>
+  <Project Name="firstlastswap" Path="firstlastswap/firstlastswap.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="traverse" ConfigName="Debug"/>
+      <Project Name="insertbeg" ConfigName="Debug"/>
+      <Project Name="insbegtraverse" ConfigName="Debug"/>
+      <Project Name="dividehalf" ConfigName="Debug"/>
+      <Project Name="sortedinsert" ConfigName="Debug"/>
+      <Project Name="temp" ConfigName="Debug"/>
+      <Project Name="firstlastswap" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="traverse" ConfigName="Release"/>
+      <Project Name="insertbeg" ConfigName="Release"/>
+      <Project Name="insbegtraverse" ConfigName="Release"/>
+      <Project Name="dividehalf" ConfigName="Release"/>
+      <Project Name="sortedinsert" ConfigName="Release"/>
+      <Project Name="temp" ConfigName="Release"/>
+      <Project Name="firstlastswap" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

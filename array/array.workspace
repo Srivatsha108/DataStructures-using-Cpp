@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="array" Database="" Version="10000">
+  <Project Name="arrrot" Path="arrrot/arrrot.project" Active="No"/>
+  <Project Name="arrpair" Path="arrpair/arrpair.project" Active="No"/>
+  <Project Name="binsearch" Path="binsearch/binsearch.project" Active="No"/>
+  <Project Name="maxrotsum" Path="maxrotsum/maxrotsum.project" Active="No"/>
+  <Project Name="missingleele" Path="missingleele/missingleele.project" Active="No"/>
+  <Project Name="multipleleftrot" Path="multipleleftrot/multipleleftrot.project" Active="No"/>
+  <Project Name="noofarrrot" Path="noofarrrot/noofarrrot.project" Active="No"/>
+  <Project Name="rearrange" Path="rearrange/rearrange.project" Active="No"/>
+  <Project Name="minelearrrot" Path="minelearrrot/minelearrrot.project" Active="No"/>
+  <Project Name="arrrot2" Path="arrrot2/arrrot2.project" Active="No"/>
+  <Project Name="maxhamdist" Path="maxhamdist/maxhamdist.project" Active="No"/>
+  <Project Name="arrayrev" Path="arrayrev/arrayrev.project" Active="No"/>
+  <Project Name="rearrange2" Path="rearrange2/rearrange2.project" Active="No"/>
+  <Project Name="arrposandneg" Path="arrposandneg/arrposandneg.project" Active="No"/>
+  <Project Name="zerosatend" Path="zerosatend/zerosatend.project" Active="Yes"/>
+  <Project Name="arraysort" Path="arraysort/arraysort.project" Active="No"/>
+  <Project Name="rearrange3" Path="rearrange3/rearrange3.project" Active="No"/>
+  <Project Name="array" Path="array/array.project" Active="No"/>
+  <Project Name="doubleandmove" Path="doubleandmove/doubleandmove.project" Active="No"/>
+  <Project Name="arrayind" Path="arrayind/arrayind.project" Active="No"/>
+  <Project Name="temp" Path="temp/temp.project" Active="No"/>
+  <Project Name="rearrposneg" Path="rearrposneg/rearrposneg.project" Active="No"/>
+  <Project Name="playwitharray" Path="playwitharray/playwitharray.project" Active="No"/>
+  <Project Name="zeroxorpairs" Path="zeroxorpairs/zeroxorpairs.project" Active="No"/>
+  <Project Name="ArrayListOperation" Path="ArrayListOperation/ArrayListOperation.project" Active="No"/>
+  <Project Name="MaximuminStructArray" Path="MaximuminStructArray/MaximuminStructArray.project" Active="No"/>
+  <Project Name="kthsmallele" Path="kthsmallele/kthsmallele.project" Active="No"/>
+  <Project Name="watertrap" Path="watertrap/watertrap.project" Active="No"/>
+  <Project Name="leadersinarray" Path="leadersinarray/leadersinarray.project" Active="No"/>
+  <Project Name="arraypairssum" Path="arraypairssum/arraypairssum.project" Active="No"/>
+  <Project Name="divby8" Path="divby8/divby8.project" Active="No"/>
+  <Project Name="mobilekeypad" Path="mobilekeypad/mobilekeypad.project" Active="No"/>
+  <Project Name="arraysubse" Path="arraysubse/arraysubse.project" Active="No"/>
+  <Project Name="inverseperm" Path="inverseperm/inverseperm.project" Active="No"/>
+  <Project Name="greatestright" Path="greatestright/greatestright.project" Active="No"/>
+  <Project Name="transitonpt" Path="transitonpt/transitonpt.project" Active="No"/>
+  <Project Name="addingones" Path="addingones/addingones.project" Active="No"/>
+  <Project Name="nthseriessum" Path="nthseriessum/nthseriessum.project" Active="No"/>
+  <Project Name="nrangerotation" Path="nrangerotation/nrangerotation.project" Active="No"/>
+  <Project Name="dictorder" Path="dictorder/dictorder.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="arrrot" ConfigName="Debug"/>
+      <Project Name="arrpair" ConfigName="Debug"/>
+      <Project Name="binsearch" ConfigName="Debug"/>
+      <Project Name="maxrotsum" ConfigName="Debug"/>
+      <Project Name="missingleele" ConfigName="Debug"/>
+      <Project Name="multipleleftrot" ConfigName="Debug"/>
+      <Project Name="noofarrrot" ConfigName="Debug"/>
+      <Project Name="rearrange" ConfigName="Debug"/>
+      <Project Name="minelearrrot" ConfigName="Debug"/>
+      <Project Name="arrrot2" ConfigName="Debug"/>
+      <Project Name="maxhamdist" ConfigName="Debug"/>
+      <Project Name="arrayrev" ConfigName="Debug"/>
+      <Project Name="rearrange2" ConfigName="Debug"/>
+      <Project Name="arrposandneg" ConfigName="Debug"/>
+      <Project Name="zerosatend" ConfigName="Debug"/>
+      <Project Name="arraysort" ConfigName="Debug"/>
+      <Project Name="rearrange3" ConfigName="Debug"/>
+      <Project Name="array" ConfigName="Debug"/>
+      <Project Name="doubleandmove" ConfigName="Debug"/>
+      <Project Name="arrayind" ConfigName="Debug"/>
+      <Project Name="temp" ConfigName="Debug"/>
+      <Project Name="rearrposneg" ConfigName="Debug"/>
+      <Project Name="playwitharray" ConfigName="Debug"/>
+      <Project Name="zeroxorpairs" ConfigName="Debug"/>
+      <Project Name="ArrayListOperation" ConfigName="Debug"/>
+      <Project Name="MaximuminStructArray" ConfigName="Debug"/>
+      <Project Name="kthsmallele" ConfigName="Debug"/>
+      <Project Name="watertrap" ConfigName="Debug"/>
+      <Project Name="leadersinarray" ConfigName="Debug"/>
+      <Project Name="arraypairssum" ConfigName="Debug"/>
+      <Project Name="divby8" ConfigName="Debug"/>
+      <Project Name="mobilekeypad" ConfigName="Debug"/>
+      <Project Name="arraysubse" ConfigName="Debug"/>
+      <Project Name="inverseperm" ConfigName="Debug"/>
+      <Project Name="greatestright" ConfigName="Debug"/>
+      <Project Name="transitonpt" ConfigName="Debug"/>
+      <Project Name="addingones" ConfigName="Debug"/>
+      <Project Name="nthseriessum" ConfigName="Debug"/>
+      <Project Name="nrangerotation" ConfigName="Debug"/>
+      <Project Name="dictorder" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="arrrot" ConfigName="Release"/>
+      <Project Name="arrpair" ConfigName="Release"/>
+      <Project Name="binsearch" ConfigName="Release"/>
+      <Project Name="maxrotsum" ConfigName="Release"/>
+      <Project Name="missingleele" ConfigName="Release"/>
+      <Project Name="multipleleftrot" ConfigName="Release"/>
+      <Project Name="noofarrrot" ConfigName="Release"/>
+      <Project Name="rearrange" ConfigName="Release"/>
+      <Project Name="minelearrrot" ConfigName="Release"/>
+      <Project Name="arrrot2" ConfigName="Release"/>
+      <Project Name="maxhamdist" ConfigName="Release"/>
+      <Project Name="arrayrev" ConfigName="Release"/>
+      <Project Name="rearrange2" ConfigName="Release"/>
+      <Project Name="arrposandneg" ConfigName="Release"/>
+      <Project Name="zerosatend" ConfigName="Release"/>
+      <Project Name="arraysort" ConfigName="Release"/>
+      <Project Name="rearrange3" ConfigName="Release"/>
+      <Project Name="array" ConfigName="Release"/>
+      <Project Name="doubleandmove" ConfigName="Release"/>
+      <Project Name="arrayind" ConfigName="Release"/>
+      <Project Name="temp" ConfigName="Release"/>
+      <Project Name="rearrposneg" ConfigName="Release"/>
+      <Project Name="playwitharray" ConfigName="Release"/>
+      <Project Name="zeroxorpairs" ConfigName="Release"/>
+      <Project Name="ArrayListOperation" ConfigName="Release"/>
+      <Project Name="MaximuminStructArray" ConfigName="Release"/>
+      <Project Name="kthsmallele" ConfigName="Release"/>
+      <Project Name="watertrap" ConfigName="Release"/>
+      <Project Name="leadersinarray" ConfigName="Release"/>
+      <Project Name="arraypairssum" ConfigName="Release"/>
+      <Project Name="divby8" ConfigName="Release"/>
+      <Project Name="mobilekeypad" ConfigName="Release"/>
+      <Project Name="arraysubse" ConfigName="Release"/>
+      <Project Name="inverseperm" ConfigName="Release"/>
+      <Project Name="greatestright" ConfigName="Release"/>
+      <Project Name="transitonpt" ConfigName="Release"/>
+      <Project Name="addingones" ConfigName="Release"/>
+      <Project Name="nthseriessum" ConfigName="Release"/>
+      <Project Name="nrangerotation" ConfigName="Release"/>
+      <Project Name="dictorder" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

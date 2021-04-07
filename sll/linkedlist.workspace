@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="linkedlist" Database="" Version="10000">
+  <Project Name="create" Path="create/create.project" Active="No"/>
+  <Project Name="insbeg" Path="insertion/insertion.project" Active="No"/>
+  <Project Name="insafter" Path="insafter/insafter.project" Active="No"/>
+  <Project Name="insend" Path="insend/insend.project" Active="No"/>
+  <Project Name="delposn" Path="delposn/delposn.project" Active="No"/>
+  <Project Name="delwhole" Path="delwhole/delwhole.project" Active="No"/>
+  <Project Name="nthnode" Path="nthnode/nthnode.project" Active="No"/>
+  <Project Name="nthnodeend" Path="nthnodeend/nthnodeend.project" Active="No"/>
+  <Project Name="midelement" Path="midelement/midelement.project" Active="No"/>
+  <Project Name="loop" Path="loop/loop.project" Active="Yes"/>
+  <Project Name="lenloop" Path="lenloop/lenloop.project" Active="No"/>
+  <Project Name="palindrome" Path="palindrome/palindrome.project" Active="No"/>
+  <Project Name="swapnodes" Path="swapnodes/swapnodes.project" Active="No"/>
+  <Project Name="reverse" Path="reverse/reverse.project" Active="No"/>
+  <Project Name="add1tonum" Path="add1tonum/add1tonum.project" Active="No"/>
+  <Project Name="countpairssum" Path="countpairssum/countpairssum.project" Active="No"/>
+  <Project Name="altnodesdelete" Path="altnodesdelete/altnodesdelete.project" Active="No"/>
+  <Project Name="intersectionpoint" Path="intersectionpoint/intersectionpoint.project" Active="No"/>
+  <Project Name="duplicate" Path="duplicate/duplicate.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="create" ConfigName="Debug"/>
+      <Project Name="insbeg" ConfigName="Debug"/>
+      <Project Name="insafter" ConfigName="Debug"/>
+      <Project Name="insend" ConfigName="Debug"/>
+      <Project Name="delposn" ConfigName="Debug"/>
+      <Project Name="delwhole" ConfigName="Debug"/>
+      <Project Name="nthnode" ConfigName="Debug"/>
+      <Project Name="nthnodeend" ConfigName="Debug"/>
+      <Project Name="midelement" ConfigName="Debug"/>
+      <Project Name="loop" ConfigName="Debug"/>
+      <Project Name="lenloop" ConfigName="Debug"/>
+      <Project Name="palindrome" ConfigName="Debug"/>
+      <Project Name="swapnodes" ConfigName="Debug"/>
+      <Project Name="reverse" ConfigName="Debug"/>
+      <Project Name="add1tonum" ConfigName="Debug"/>
+      <Project Name="countpairssum" ConfigName="Debug"/>
+      <Project Name="altnodesdelete" ConfigName="Debug"/>
+      <Project Name="intersectionpoint" ConfigName="Debug"/>
+      <Project Name="duplicate" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="create" ConfigName="Release"/>
+      <Project Name="insbeg" ConfigName="Release"/>
+      <Project Name="insafter" ConfigName="Release"/>
+      <Project Name="insend" ConfigName="Release"/>
+      <Project Name="delposn" ConfigName="Release"/>
+      <Project Name="delwhole" ConfigName="Release"/>
+      <Project Name="nthnode" ConfigName="Release"/>
+      <Project Name="nthnodeend" ConfigName="Release"/>
+      <Project Name="midelement" ConfigName="Release"/>
+      <Project Name="loop" ConfigName="Release"/>
+      <Project Name="lenloop" ConfigName="Release"/>
+      <Project Name="palindrome" ConfigName="Release"/>
+      <Project Name="swapnodes" ConfigName="Release"/>
+      <Project Name="reverse" ConfigName="Release"/>
+      <Project Name="add1tonum" ConfigName="Release"/>
+      <Project Name="countpairssum" ConfigName="Release"/>
+      <Project Name="altnodesdelete" ConfigName="Release"/>
+      <Project Name="intersectionpoint" ConfigName="Release"/>
+      <Project Name="duplicate" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

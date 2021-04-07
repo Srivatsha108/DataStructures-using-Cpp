@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="queue" Database="" Version="10000">
+  <Project Name="circularqueue" Path="circularqueue/circularqueue.project" Active="No"/>
+  <Project Name="queueop" Path="queueop/queueop.project" Active="No"/>
+  <Project Name="deqcirarr" Path="deqcirarr/deqcirarr.project" Active="Yes"/>
+  <Project Name="stackusingqueue" Path="stackusingqueue/stackusingqueue.project" Active="No"/>
+  <Project Name="stackusingsinglequeue" Path="stackusingsinglequeue/stackusingsinglequeue.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="queueop" ConfigName="Debug"/>
+      <Project Name="circularqueue" ConfigName="Debug"/>
+      <Project Name="queueop" ConfigName="Debug"/>
+      <Project Name="deqcirarr" ConfigName="Debug"/>
+      <Project Name="stackusingqueue" ConfigName="Debug"/>
+      <Project Name="stackusingsinglequeue" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="queueop" ConfigName="Release"/>
+      <Project Name="circularqueue" ConfigName="Release"/>
+      <Project Name="queueop" ConfigName="Release"/>
+      <Project Name="deqcirarr" ConfigName="Release"/>
+      <Project Name="stackusingqueue" ConfigName="Release"/>
+      <Project Name="stackusingsinglequeue" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
